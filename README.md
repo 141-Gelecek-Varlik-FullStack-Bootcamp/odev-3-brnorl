@@ -1,9 +1,9 @@
-#Layered Architecture Assignment -3
+# Layered Architecture Assignment -3
 
 
-###For User
+### For User
 Login-Create-Update-Delete-List
-###For Product
+### For Product
 Create-Update-Delete-List
 
-######This repository is created for Gelecek-Varlik-FullStack-Bootcamp.
+###### This repository is created for Gelecek-Varlik-FullStack-Bootcamp.
